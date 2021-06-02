@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "main": "keivegas.js",
   "scripts": {
-    "test": "keivegas.js"
+    "test": "node keivegas.js"
   },
   "dependencies": {
     "discord.js": "^12.2.0",
