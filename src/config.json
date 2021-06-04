@@ -1,0 +1,45 @@
+{
+  "Bot": {
+    "Token": "",
+    "MongoURL": "",
+    "Durum": "Vegas 💙 kei",
+    "Status": "online",
+    "Owners": ["786608424598503475", "209631461865816064"],
+    "Prefix": ["!", ".", "r!"]
+  },
+
+  "Server": {
+    "GuildID": "",
+    "ChatMsgListID": "",
+    "VoiceMsgListID": ""
+  },
+
+  "Channels": {
+    "VoiceChannelID": "",
+    "rankUp": "",
+    "ChatLeaderBoard": "",
+    "VoiceLeaderBoard": ""
+  },
+  
+  "Emoji": {
+    "TickEmoji": "",
+    "RedEmoji": ""
+  },
+
+  "Roles": {
+    "Joined1Month": "",
+    "Joined2Month": "",
+    "Joined3Month": "",
+    "Joined6Month": "",
+    "Joined9Month": "",
+    "Joined12Month": "",
+    "ChatGold": "",
+    "ChatSilver": "",
+    "ChatBronze": "",
+    "ChatDiamond": "",
+    "VoiceGold": "",
+    "VoiceSilver": "",
+    "VoiceBronze": "",
+    "VoiceDiamond": ""
+  }
+}
